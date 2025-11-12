@@ -1,0 +1,1 @@
+This is a dropDown menu, it contains a dropdown menu button and the dropdown menu contents, the drop down menu button toggles the visibility of the dropdown menu contents while the dropdown menu contents contain a list of what what was hidden that are shown when the button is clicked
