@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.dropdownBtn {
+    border: none;
+    background-color: white;
+
+}
+
+.visible {
+    display: block;
+    box-shadow: 1px 4px 4px;
+    width: 30%;
+    height: 100vh;
+    border-radius: 10px;
+}
+
+.visible.hidden {
+    display: none;
+}
+
+svg {
+    height: 30px;
+    width: 30px;
+    fill: currentColor;
+    
+}
+
